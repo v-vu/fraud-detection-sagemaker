@@ -1,0 +1,18 @@
+{
+  "processing": {
+    "instance_type": "ml.m5.large",
+    "instance_count": 1
+  },
+  "training": {
+    "instance_type": "ml.m5.xlarge",
+    "instance_count": 1
+  },
+  "clarify": {
+    "instance_type": "ml.m5.xlarge",
+    "instance_count": 1
+  },
+  "batch_transform": {
+    "instance_type": "ml.m5.large",
+    "instance_count": 1
+  }
+}

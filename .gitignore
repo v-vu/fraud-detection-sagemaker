@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.tar.gz
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+.DS_Store
+.sagemaker/outputs/*
+.sagemaker/states/*

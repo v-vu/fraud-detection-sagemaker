@@ -1,0 +1,7 @@
+{
+  "project": "fraud-detection-sagemaker",
+  "region": "us-east-1",
+  "pipeline_name": "fraud-pipeline",
+  "instance_type": "ml.m5.xlarge",
+  "instance_count": 1
+}
