@@ -43,5 +43,4 @@ Production-grade repository for fraud detection using AWS SageMaker with XGBoost
 
 ## Notes
 
-- This repo is structured for real-world usage. Extend the pipeline with data quality checks, drift monitors, and CI/CD as needed.
 - The pipeline script uses generic instance types from `config/sagemaker_config.json`. Adjust per your budget/SLAs.
